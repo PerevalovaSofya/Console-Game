@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: org.example.Main
+Class-Path: jna-platform-5.5.0.jar jna-5.5.0.jar ColoredPrinter-1.0.jar 
+ JCDP-4.0.2.jar ChessLogic.jar
+
