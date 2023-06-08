@@ -23,4 +23,4 @@ O- целевая точка, до которой игрок должен доб
 
 java -jar game.jar --enemiesCount=10 --wallsCount=10 --size=20 --profile=production
 
-![Info_Web](materials/info_java.gif)
+![Info_Web](materials/game.gif)
